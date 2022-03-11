@@ -13,3 +13,9 @@
 </p>
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=danonino.mb%20%E3%83%84%239999&color=blue&style=for-the-badge)](https://discord.com/users/627150888653553665)
+  
+<div align="left">
+  <a href="https://discord.com/users/627150888653553665">
+    <img src="https://lanyard-profile-readme.vercel.app/api/627150888653553665?animated=true" align="left" height="205">
+  </a>
+</div>
