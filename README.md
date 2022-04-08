@@ -14,9 +14,5 @@
 ---
 <p align="center">
   <a href="https://discord.com/users/627150888653553665">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/627150888653553665">
+    <img align="center" src="https://lanyard.cnrad.dev/api/627150888653553665">
   </a>
-  <a href="https://github.com/danonino-mb">
-    <img align="center" height="218" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danonino-mb&langs_count=6&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes más usados">
-  </a>
-</p>
